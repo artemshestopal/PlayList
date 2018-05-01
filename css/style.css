@@ -74,7 +74,7 @@ textarea {
 	list-style: none;
 }
 .ba-tune{
-	border-top: 1px solid #с2с2с2;
+	border-top: 1px solid #e4e2e2;
     padding-top: 10px;
     margin-top: 10px;
 }
@@ -87,7 +87,7 @@ textarea {
     display: inline-block;
     padding-right: 10px;
     margin-right: 6px;
-    border-right: 1px solid rgba(164, 163, 169, 0.6);
+    border-right: 1px solid #e4e2e2;
 }
 .ba-tune__author {
     text-transform: capitalize;
